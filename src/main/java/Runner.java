@@ -5,7 +5,7 @@ public class Runner {
         System.out.println("versiyon2 nin devamı");
         System.out.println("versiyon 4");
 
-
+//B kişisi kodları değiştirdi
 //remote da değişiklik
 
 
